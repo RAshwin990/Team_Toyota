@@ -46,4 +46,17 @@ The following are the features of this project:
 ## Threats:
 1. More advanced and sofisticated systems are already available in the market of expensive cars.
 
+# High level requirements:
+|  ID   |              Description                  |    Status    |
+|-------|            :-------------:                |--------------|
+| HLR_1 |   The user can change the temperature | Implemented  |
+| HLR_2 |   The user can view the temperature set      | Implemented  |
+| HLR_3 |   The user can view the controlled temperature      | Implemented  |
+| HLR_4 |   The user can view the external temperature       | Implemented  |
 
+# Low level requirements:
+|  ID   |            Description        |    Status    |
+|-------|          :-------------:      |--------------|
+| LLR_1 |  List of operations displayed | Implemented  |
+| LLR_2 |  Input from the user          | Implemented  |
+| LLR_3 |  Exit the program             | Implemented  |
